@@ -1,0 +1,10 @@
+variables y definiciones,descripcion
+ID_hecho,Identificador unico del siniestro
+FECHA,Fecha en formato dd/mm/aaaa
+AAAA,Año
+MM,Mes
+DD,Día del mes
+ROL,Posición relativa al vehículo que presentaba la víctima en el momento del siniestro
+VICTIMA,"Vehículo que ocupaba quien haya fallecido a se haya lastimado a raíz del hecho, o bien peatón/a. clasificación agregada del tipo de vehículos."
+SEXO,Sexo informado por fuente policial de la víctima
+EDAD,Edad de la víctima al momento del siniestro

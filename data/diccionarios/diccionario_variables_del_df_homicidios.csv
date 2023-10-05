@@ -1,0 +1,22 @@
+variables_y_definiciones,descripcion
+id,Identificador unico del siniestro
+n_victimas,Cantidad de víctimas
+fecha,Fecha en formato dd/mm/aaaa
+aaaa,Año
+mm,Mes
+dd,Día del mes
+hora,Hora del siniestro
+hh,Franja horaria entera
+lugar_del_hecho,Dirección del hecho
+tipo_de_calle,Tipo de arteria. en el caso de intersecciones a nivel se clasifica según la de mayor jerarquía
+calle,Nombre de la arteria donde se produjo el hecho
+altura,Altura de la arteria donde se produjo el hecho
+cruce,Cruce en caso de que sea una encrucijada
+direccion_normalizada,Direccion en formato normalizado usig
+comuna,Comuna de la ciudad (1 a 15)
+xy,Geocodificación plana
+pos_x,Longitud con separador punto. wgs84
+pos_y,Latitud con separador punto. wgs84
+participantes,Conjunción de víctima y acusado
+victima,"Vehículo que ocupaba quien haya fallecido a se haya lastimado a raíz del hecho, o bien peatón/a. clasificación agregada del tipo de vehículos."
+acusado,"Vehículo que ocupaba quien resultó acusado/a del hecho, sin implicar culpabilidad legal"
